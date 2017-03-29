@@ -9,8 +9,6 @@
  
 /**
  * @file src/ngx_http_baidu_concat_module.c
- * @author forum(xiehualiang@baidu.com)
- * @date 2011-8-31   
  * @version $Revision$ 
  * @brief 
  *  
